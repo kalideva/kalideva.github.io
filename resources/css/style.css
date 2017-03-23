@@ -1,0 +1,18 @@
+html
+{
+background: white;
+font-family: Futura;
+color: steelblue;
+}
+
+h1
+{
+text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: auto;
+  height: 350px;
+}
